@@ -2,7 +2,7 @@ It's basic sinatra application for the Bird API
 
 Steps to setup:
 
-Firstly install the rvm from ruby version manager along with ruby 2.3.2 or greater version.
+Firstly install the rvm from ruby version manager along with ruby 2.3.3.
 
 Once done with the the installation 
 
