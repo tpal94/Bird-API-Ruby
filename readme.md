@@ -23,7 +23,7 @@ To check API you can use curl to follow sample request
 
  curl -i -X POST -H "Content-Type: application/json" -d'{"name":"The Power Of Habit","family":"sdsds","continents":["1","2"]}' http://localhost:4567/api/v1/birds 
 
- To check test cases just execute: ruby test/test_helper.rb
+ To check test cases just execute: ruby test/unit/bird_test.rb
 
 
 
